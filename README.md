@@ -6,7 +6,8 @@ Group Members:
 3. Nick Kopsiaftis
 4. Priyanka Chaudhari
 
-Executive Summary
+Executive Summary:
+
 This analysis commenced with a macroscopic examination of major financial markets, specifically the Nasdaq and NYSE, and the broad market index S&P 500. An initial assessment segmented these markets into various sectors, leading to a focused analysis on the Technology sector within the Nasdaq market due to its significant impact potential.
 
 Market Behavior and Index Analysis
