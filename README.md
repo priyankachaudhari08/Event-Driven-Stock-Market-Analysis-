@@ -1,5 +1,6 @@
+# Event-Driven Stock Market Analysis
+
 Team Details- QST IS 843 Team 2
-Event-Driven Stock Market Analysis
 Group Members:
 1. Ria Singh
 2. Hanying Zhang
